@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/keith-kook/tutorial-robofriends/static/css/main.ac766503.chunk.css",
-    "main.js": "/keith-kook/tutorial-robofriends/static/js/main.f4445d01.chunk.js",
-    "main.js.map": "/keith-kook/tutorial-robofriends/static/js/main.f4445d01.chunk.js.map",
+    "main.js": "/keith-kook/tutorial-robofriends/static/js/main.3fab47cd.chunk.js",
+    "main.js.map": "/keith-kook/tutorial-robofriends/static/js/main.3fab47cd.chunk.js.map",
     "runtime-main.js": "/keith-kook/tutorial-robofriends/static/js/runtime-main.ee7d5402.js",
     "runtime-main.js.map": "/keith-kook/tutorial-robofriends/static/js/runtime-main.ee7d5402.js.map",
     "static/css/2.2bb1e00b.chunk.css": "/keith-kook/tutorial-robofriends/static/css/2.2bb1e00b.chunk.css",
@@ -19,6 +19,6 @@
     "static/css/2.2bb1e00b.chunk.css",
     "static/js/2.92ef4b2f.chunk.js",
     "static/css/main.ac766503.chunk.css",
-    "static/js/main.f4445d01.chunk.js"
+    "static/js/main.3fab47cd.chunk.js"
   ]
 }
